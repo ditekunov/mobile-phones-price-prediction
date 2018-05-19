@@ -2,21 +2,7 @@
 
 Used dataset: https://www.kaggle.com/iabhishekofficial/mobile-price-classification
 
-### Outcome binary metrics:
-
-| Model name                  | Accuracy real | AUC-ROC real | Average |
-|-----------------------------|---------------|--------------|---------|
-| Logistic regression         | 98.83 %       | 98.85 %      | 98.84 % |
-| Random forest with 80 trees | 95.83 %       | 99.49        | 97.66 % |
-| Bootstrapped decision tree  | 95.67 %       | 99.49 %      | 97.58 % |
-| Bagging cllassifier         | 95.00 %       | 99.43 %      | 97.22 % |
-| KNN classifier with 98 NN   | 94.33 %       | -            | 94.33 % |
-| Decision tree               | 93.50 %       | 93.53 %      | 93.52 % |
-| Linear regression           | 71.69 %       | -            | 71.69 % |
-
-
-
-Short description of the dataset:
+### Short description of the dataset:
 
 | Feature name  |  Feature description                                  |  Type   |
 |---------------|-------------------------------------------------------|---------|
@@ -41,4 +27,20 @@ Short description of the dataset:
 | three_g       | Has 3G or not                                         | Boolean |
 | touch_screen  | Has touch screen or not                               | Boolean |
 | wifi          | Has wifi or not                                       | Numeric |
+
+
+
+### Outcome binary metrics:
+
+| Model name                  | Accuracy real | AUC-ROC real | Average |
+|-----------------------------|---------------|--------------|---------|
+| Logistic regression         | 98.83 %       | 98.85 %      | 98.84 % |
+| Random forest with 80 trees | 95.83 %       | 99.49        | 97.66 % |
+| Bootstrapped decision tree  | 95.67 %       | 99.49 %      | 97.58 % |
+| Bagging cllassifier         | 95.00 %       | 99.43 %      | 97.22 % |
+| KNN classifier with 98 NN   | 94.33 %       | -            | 94.33 % |
+| Decision tree               | 93.50 %       | 93.53 %      | 93.52 % |
+| Linear regression           | 71.69 %       | -            | 71.69 % |
+
+
   
