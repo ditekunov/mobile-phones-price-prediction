@@ -43,4 +43,17 @@ Used dataset: https://www.kaggle.com/iabhishekofficial/mobile-price-classificati
 | Linear regression           | 71.69 %       | -            | 71.69 % |
 
 
+### Outcome multi-class metrics:
+
+| Model name                   | Accuracy real |
+|------------------------------|---------------|
+| Linear regression            | 91.66 %       | 
+| Random forest with 250 trees | 88.50 %       |
+| Decision tree                | 85.17 %       | 
+| Logistic regression          | 79.50 %       |
+| KNN classifier with 74 NN    | 65.00 %       | 
+| Bootstrapped decision tree   | 43.67 %       |
+| Bagging cllassifier          | 43.33 %       |
+
+
   
