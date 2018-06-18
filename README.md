@@ -1,4 +1,4 @@
-## Mobile-phones-price-classifier
+## Mobile-phones-price-prediction
 
 Used dataset: https://www.kaggle.com/iabhishekofficial/mobile-price-classification
 
